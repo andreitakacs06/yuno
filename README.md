@@ -1,6 +1,6 @@
 <div align="center">
 
-![Yuno Title](yuno-title.png)
+![Yuno Title](images/yuno-title.png)
 
 A modern, lightweight YouTube downloader. Download videos in up to 4K quality or extract audio in MP3 format.
 
@@ -8,7 +8,7 @@ A modern, lightweight YouTube downloader. Download videos in up to 4K quality or
 
 ## 📸 Screenshots
 
-![Yuno Interface](screenshot.png)
+![Yuno Interface](images/screenshot.png)
 
 ## ✨ Features
 
